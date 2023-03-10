@@ -1,0 +1,15 @@
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\bin\Debug\net6.0\Week7Project2.exe
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\bin\Debug\net6.0\Week7Project2.deps.json
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\bin\Debug\net6.0\Week7Project2.runtimeconfig.json
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\bin\Debug\net6.0\Week7Project2.dll
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\bin\Debug\net6.0\Week7Project2.pdb
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\obj\Debug\net6.0\Week7Project2.csproj.AssemblyReference.cache
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\obj\Debug\net6.0\Week7Project2.GeneratedMSBuildEditorConfig.editorconfig
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\obj\Debug\net6.0\Week7Project2.AssemblyInfoInputs.cache
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\obj\Debug\net6.0\Week7Project2.AssemblyInfo.cs
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\obj\Debug\net6.0\Week7Project2.csproj.CoreCompileInputs.cache
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\obj\Debug\net6.0\Week7Project2.dll
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\obj\Debug\net6.0\refint\Week7Project2.dll
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\obj\Debug\net6.0\Week7Project2.pdb
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\obj\Debug\net6.0\Week7Project2.genruntimeconfig.cache
+F:\LSC\GAME 1343\Week7Assignment\Week7Project2\obj\Debug\net6.0\ref\Week7Project2.dll
